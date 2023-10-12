@@ -14,3 +14,12 @@ Infinite-ISP is a one stop solution for all your ISP development needs - from al
 Infinite-ISP Image Signal Processing Pipeline Firmware for XCK26 Zynq® UltraScale+™ MPSoC present on Xilinx® Kria™ KV260 Vision AI Starter Kit 
 
 Coming soon!
+
+## Contact
+For any inquiries or feedback feel free to reach out.
+
+Email: isp@10xengineers.ai
+
+Website: http://www.10xEngineers.ai
+
+LinkedIn: https://www.linkedin.com/company/10x-engineers/
